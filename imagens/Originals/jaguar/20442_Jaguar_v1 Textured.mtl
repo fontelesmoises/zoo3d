@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.05.2013 12:33:53
+
+newmtl _20442_Jaguar_v1_NEW_20442_Jaguar_v120442_Jaguar
+	Ns 31.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.3410 0.2544 0.1604
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 20442_jaguar_v1_diff.jpg
+	map_Kd 20442_jaguar_v1_diff.jpg
