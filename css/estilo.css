@@ -208,5 +208,20 @@ li{
   h2{
     color: white;
   }
-  
+      /* Estilos para dispositivos móveis */
+      @media only screen and (max-width: 768px) {
+        /* Exemplos de estilos para ajustar o layout em dispositivos móveis */
+        /* Aqui você pode adicionar as regras CSS para tornar o site responsivo */
+        /* Por exemplo: */
+        .header-nav ul {
+            display: none; /* Ocultar a lista de links em dispositivos móveis */
+        }
+        .header-nav {
+            text-align: center; /* Centralizar o logotipo em dispositivos móveis */
+        }
+        .header-nav a {
+            display: block; /* Mostrar os links individualmente em dispositivos móveis */
+            margin-bottom: 10px; /* Adicionar espaço entre os links em dispositivos móveis */
+        }
+    }
 
