@@ -208,14 +208,5 @@ li{
   h2{
     color: white;
   }
-
-  /* Estilos para dispositivos móveis */
-  @media only screen and (max-width: 768px) {
-    /* Exemplos de estilos para ajustar o layout em dispositivos móveis */
-    /* Aqui você pode adicionar as regras CSS para tornar o site responsivo */
-    /* Por exemplo: */
-    .header-nav {
-    display: none; /* Ocultar a navegação em dispositivos móveis */
-}
-}  
+  
 
